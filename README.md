@@ -47,4 +47,3 @@ Of coherence, "We were always looking for the capacity of a pattern language to 
 
 Of generative structures, "It turns out that these living structures can only be produced by an unfolding wholeness. . . . You operate on it through things that I have come to call "structure-preserving transformations,” maintaining the whole at each step, but gradually introducing differentiations one after the other. And if these transformations are truly structure-preserving and structure-enhancing, then you will come out at the end with living structure. . . . If a process doesn’t go in the structure-preserving way that I'm talking about, the result is never living structure." 
 
-A pattern language of the worldwide web. 
