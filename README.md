@@ -1,7 +1,5 @@
 # TheDesignPattern
-Methodologies and Design Patterns
-
-The Pattern of Design / A Pattern Grammar 
+The Pattern of Design, or A Pattern Grammar 
 
 True design patterns create living things. Design patterns are generative.
 
